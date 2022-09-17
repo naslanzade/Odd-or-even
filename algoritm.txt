@@ -1,0 +1,5 @@
+input m
+   m % 2 ==0	
+      write "even numbers"
+  else
+      write "odd number"
